@@ -1,0 +1,5 @@
+﻿  Zadanie1.cpp
+e:\grafika komputerowa\lab02\zadanie1\zadanie1\zadanie1.cpp(81): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+e:\grafika komputerowa\lab02\zadanie1\zadanie1\zadanie1.cpp(83): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+  Zadanie1.vcxproj -> E:\Grafika komputerowa\Lab02\Zadanie1\Debug\Zadanie1.exe
+  Zadanie1.vcxproj -> E:\Grafika komputerowa\Lab02\Zadanie1\Debug\Zadanie1.pdb (Full PDB)
